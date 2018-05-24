@@ -1,2 +1,1 @@
-# hudsonInstagram
-Instagram NYCDA project
+Instagram Clone App - NYCDA project
